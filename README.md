@@ -40,8 +40,12 @@
 
 
  <a href="mailto:sollleky72@gmail.com">
- <img align="left" alt="Yeseul Jeong GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yeseul321" /></a>
+ <img align="left" alt="Yeseul Jeong GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yeseul321" />
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yeseul321&langs_count=10&layout=compact&theme=dark"/></a>
 
+---
 
+<p align='right'>
 <a href="https://hits.seeyoufarm.com">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/yeseul321%2Fgjbae1212%2Fhit-counter&count_bg=%23BB8DDC&title_bg=%23C6C8CA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  </p>
