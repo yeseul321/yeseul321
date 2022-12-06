@@ -38,9 +38,9 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
 </p>
 
-<p align='center'>
+<p align='left'>
  <a href="mailto:sollleky72@gmail.com">
- <img align="left" alt="Yeseul Jeong GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yeseul321" />
+ <img alt="Yeseul Jeong GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yeseul321" />
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yeseul321&langs_count=10&layout=compact&theme=dark"/></a>
   </p>
 
