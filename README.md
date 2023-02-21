@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi👋🏻%20I'm%20YeSeul%20Chungng&fontAlign=65&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi👋🏻%20I'm%20YeSeul%20Chung&fontAlign=65&fontSize=45)
 <h3 align='center'>
 <br>
 안녕하세요. 정예슬입니다. :) <br>
